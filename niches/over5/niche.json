@@ -1,0 +1,130 @@
+{
+  "channel": {
+    "name": "Over5",
+    "handle": "@over5",
+    "tagline": "Top 5 cricket stories. Every day. Under a minute.",
+    "logo": {
+      "glyph": "5",
+      "plain": "Over",
+      "accent": "5"
+    },
+    "colors": {
+      "bg": "#0a0a0a",
+      "bgAlt": "#1a1a1a",
+      "primary": "#ff6b35",
+      "accent": "#ffd166",
+      "hot": "#ff4757",
+      "text": "#ffffff",
+      "muted": "#888888"
+    }
+  },
+  "topic": "cricket news: international matches, IPL and T20 leagues, player performances, selections, records and controversies",
+  "style": "comedy",
+  "formats": [
+    "sketch",
+    "quiz",
+    "truefalse",
+    "explainer"
+  ],
+  "theme": "comic",
+  "mascot": {
+    "enabled": true,
+    "name": "Bouncer",
+    "personality": "a hyper, over-dramatic robot cricket fan who treats every single run like a miracle"
+  },
+  "cohost": {
+    "name": "Googly",
+    "personality": "a sarcastic old-school cricket buff who has seen it all and is never impressed",
+    "voice": {
+      "name": "bm_george",
+      "langCode": "b",
+      "speed": 1.2,
+      "pitch": 0.92
+    }
+  },
+  "video": {
+    "targetSeconds": 62,
+    "maxSeconds": 68
+  },
+  "labels": {
+    "topic": "Cricket",
+    "introSubtitle": "Cricket Headlines",
+    "outroLine": "New episodes every morning & evening"
+  },
+  "language": {
+    "name": "English"
+  },
+  "voice": {
+    "name": "am_michael",
+    "langCode": "a",
+    "speed": 1.25,
+    "gapSeconds": 0.35,
+    "pitch": 1.12
+  },
+  "count": 5,
+  "editorial": {
+    "audience": "Indian and global cricket fans who want the day's key cricket news fast",
+    "pickRules": "Select stories based on global impact, fan engagement, and news value: prioritize international match results, IPL/T20 league updates, player milestones, selection controversies, and record-breaking performances. Favor timely, verifiable updates from trusted sources over speculation or social media rumors. Each story must be significant enough to affect team dynamics, fan sentiment, or tournament outcomes.",
+    "avoid": "Never pick unverified rumors, fan speculation, or social media gossip without corroboration from reputable outlets.",
+    "tone": "Energetic, crisp, and authoritative — like a sports anchor delivering fast-paced highlights with clarity and enthusiasm.",
+    "categories": [
+      "Match",
+      "IPL",
+      "T20",
+      "Player",
+      "Selection",
+      "Record",
+      "Controversy",
+      "Injury",
+      "Auction",
+      "Retirement"
+    ]
+  },
+  "baseHashtags": [
+    "Cricket",
+    "Over5",
+    "IPL",
+    "T20",
+    "SportsNews"
+  ],
+  "useArticleImages": true,
+  "editions": {
+    "morning": {
+      "label": "Morning Edition",
+      "lookbackHours": 24,
+      "time": "08:00"
+    },
+    "evening": {
+      "label": "Evening Edition",
+      "lookbackHours": 14,
+      "time": "19:00"
+    }
+  },
+  "sources": [
+    {
+      "type": "rss",
+      "name": "ESPNcricinfo",
+      "url": "http://www.espncricinfo.com/rss/content/story/feeds/0.xml"
+    },
+    {
+      "type": "rss",
+      "name": "BBC Sport Cricket",
+      "url": "http://feeds.bbci.co.uk/sport/cricket/rss.xml"
+    },
+    {
+      "type": "rss",
+      "name": "The Guardian Cricket",
+      "url": "https://www.theguardian.com/sport/cricket/rss"
+    },
+    {
+      "type": "rss",
+      "name": "r/Cricket",
+      "url": "https://www.reddit.com/r/Cricket/top/.rss?t=day"
+    },
+    {
+      "type": "rss",
+      "name": "r/IPL",
+      "url": "https://www.reddit.com/r/IPL/top/.rss?t=day"
+    }
+  ]
+}

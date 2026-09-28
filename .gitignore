@@ -1,0 +1,26 @@
+# secrets
+.env
+# the key template must be published (overrides global ignore rules like `.env.*`)
+!.env.example
+
+# installed dependencies (recreated by install.sh / setup.sh)
+.venv/
+video/node_modules/
+video/public/
+__pycache__/
+*.pyc
+
+# generated per machine / per run
+output/
+logs/
+assets/generated/
+assets/sfx/
+assets/voice-samples/
+niches/*/brand/
+*.bak
+.DS_Store
+
+# your own music stays local (licences differ per track)
+assets/music/*
+!assets/music/README.md
+niches/*/music/

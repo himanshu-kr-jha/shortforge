@@ -1,0 +1,165 @@
+{
+  "channel": {
+    "name": "TechDrop",
+    "handle": "@techdrop",
+    "tagline": "Top 5 tech stories. Every day. Under a minute.",
+    "logo": {
+      "glyph": "T",
+      "plain": "Tech",
+      "accent": "Drop"
+    },
+    "colors": {
+      "bg": "#07080F",
+      "bgAlt": "#12142A",
+      "primary": "#7C5CFF",
+      "accent": "#22D3EE",
+      "hot": "#FF3D71",
+      "text": "#F5F7FF",
+      "muted": "#9AA3C7"
+    }
+  },
+  "topic": "technology news",
+  "style": "news",
+  "formats": [
+    "explainer",
+    "quiz",
+    "truefalse",
+    "countdown"
+  ],
+  "theme": "neon",
+  "mascot": {
+    "enabled": true,
+    "name": "Bitto",
+    "personality": "an excitable, curious robot who loves gadgets and big launches"
+  },
+  "cohost": {
+    "name": "Glitch",
+    "personality": "a deadpan, skeptical sidekick who has survived every hype cycle",
+    "voice": {
+      "name": "bm_george",
+      "langCode": "b",
+      "speed": 1.15,
+      "pitch": 0.95
+    }
+  },
+  "labels": {
+    "topic": "Tech",
+    "introSubtitle": "Tech Stories",
+    "outroLine": "New episodes every morning & evening"
+  },
+  "language": {
+    "name": "English"
+  },
+  "voice": {
+    "name": "af_heart",
+    "langCode": "a",
+    "speed": 1.18,
+    "gapSeconds": 0.35,
+    "pitch": 1.0
+  },
+  "count": 5,
+  "editorial": {
+    "audience": "Global tech enthusiasts who want the day's important tech news fast.",
+    "pickRules": "Major AI launches and moves, big tech (Apple, Google, Microsoft, Meta, Amazon, Nvidia, OpenAI, Samsung, Tesla), notable phone and gadget launches, big security breaches, major funding, acquisitions and layoffs, regulation with real impact, space and science-tech breakthroughs, viral developer news.",
+    "avoid": "Product reviews, shopping deals, sponsored posts, opinion essays, how-to tutorials, niche programming blog posts, podcasts, local-interest stories.",
+    "tone": "Energetic, clear, a little witty, never hypey or clickbait.",
+    "categories": [
+      "AI",
+      "Apple",
+      "Google",
+      "Security",
+      "Gadgets",
+      "Space",
+      "Gaming",
+      "Business",
+      "Policy",
+      "Dev",
+      "Crypto",
+      "EV",
+      "Social"
+    ]
+  },
+  "baseHashtags": [
+    "technews",
+    "tech"
+  ],
+  "useArticleImages": true,
+  "editions": {
+    "morning": {
+      "label": "Morning Edition",
+      "lookbackHours": 24,
+      "time": "07:00"
+    },
+    "evening": {
+      "label": "Evening Edition",
+      "lookbackHours": 14,
+      "time": "17:30"
+    }
+  },
+  "sources": [
+    {
+      "type": "rss",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/"
+    },
+    {
+      "type": "rss",
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "type": "rss",
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "type": "rss",
+      "name": "Engadget",
+      "url": "https://www.engadget.com/rss.xml"
+    },
+    {
+      "type": "rss",
+      "name": "Wired",
+      "url": "https://www.wired.com/feed/rss"
+    },
+    {
+      "type": "rss",
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/feed/"
+    },
+    {
+      "type": "rss",
+      "name": "9to5Google",
+      "url": "https://9to5google.com/feed/"
+    },
+    {
+      "type": "rss",
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/rss-news-reviews.php3"
+    },
+    {
+      "type": "rss",
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    {
+      "type": "rss",
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/feed.xml"
+    },
+    {
+      "type": "rss",
+      "name": "The Register",
+      "url": "https://www.theregister.com/headlines.atom"
+    },
+    {
+      "type": "hackernews",
+      "name": "Hacker News",
+      "minPoints": 80
+    },
+    {
+      "type": "dailydev",
+      "name": "daily.dev"
+    }
+  ]
+}

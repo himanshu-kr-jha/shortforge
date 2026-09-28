@@ -1,0 +1,743 @@
+{
+ "brand": {
+  "name": "ShortForge",
+  "handle": "@shortforge",
+  "tagline": "Your niche. Every day. Under a minute.",
+  "logo": {
+   "glyph": "S",
+   "plain": "Short",
+   "accent": "Forge"
+  },
+  "colors": {
+   "bg": "#07080F",
+   "bgAlt": "#12142A",
+   "primary": "#7C5CFF",
+   "accent": "#22D3EE",
+   "hot": "#FF3D71",
+   "text": "#F5F7FF",
+   "muted": "#9AA3C7"
+  }
+ },
+ "editionLabel": "Evening Edition",
+ "dateLabel": "Sep 27",
+ "durationSeconds": 54.525,
+ "hook": {
+  "start": 0.35,
+  "end": 5.074999999999999,
+  "voiceEnd": 4.725,
+  "words": [
+   {
+    "text": "One",
+    "start": 0.6,
+    "end": 0.8624999999999999
+   },
+   {
+    "text": "AI",
+    "start": 0.8624999999999999,
+    "end": 1.2625
+   },
+   {
+    "text": "giant",
+    "start": 1.2625,
+    "end": 1.8624999999999998
+   },
+   {
+    "text": "just",
+    "start": 1.8624999999999998,
+    "end": 2.0625
+   },
+   {
+    "text": "admitted",
+    "start": 2.0625,
+    "end": 2.5500000000000003
+   },
+   {
+    "text": "its",
+    "start": 2.5500000000000003,
+    "end": 2.75
+   },
+   {
+    "text": "models",
+    "start": 2.75,
+    "end": 3.1750000000000003
+   },
+   {
+    "text": "are",
+    "start": 3.1750000000000003,
+    "end": 3.3125
+   },
+   {
+    "text": "slipping",
+    "start": 3.3125,
+    "end": 3.6375
+   },
+   {
+    "text": "out",
+    "start": 3.6375,
+    "end": 3.7625
+   },
+   {
+    "text": "of",
+    "start": 3.7625,
+    "end": 3.85
+   },
+   {
+    "text": "control.",
+    "start": 3.85,
+    "end": 4.5
+   }
+  ]
+ },
+ "stories": [
+  {
+   "start": 5.074999999999999,
+   "end": 13.125,
+   "voiceEnd": 12.774999999999999,
+   "words": [
+    {
+     "text": "TikTok",
+     "start": 5.299999999999999,
+     "end": 5.7875
+    },
+    {
+     "text": "will",
+     "start": 5.7875,
+     "end": 5.924999999999999
+    },
+    {
+     "text": "pay",
+     "start": 5.924999999999999,
+     "end": 6.1499999999999995
+    },
+    {
+     "text": "Alabama",
+     "start": 6.1499999999999995,
+     "end": 6.737499999999999
+    },
+    {
+     "text": "at",
+     "start": 6.737499999999999,
+     "end": 6.85
+    },
+    {
+     "text": "least",
+     "start": 6.85,
+     "end": 7.124999999999999
+    },
+    {
+     "text": "one",
+     "start": 7.124999999999999,
+     "end": 7.2749999999999995
+    },
+    {
+     "text": "hundred",
+     "start": 7.2749999999999995,
+     "end": 7.6
+    },
+    {
+     "text": "million",
+     "start": 7.6,
+     "end": 7.924999999999999
+    },
+    {
+     "text": "dollars,",
+     "start": 7.924999999999999,
+     "end": 8.575
+    },
+    {
+     "text": "avoiding",
+     "start": 8.674999999999999,
+     "end": 9.1
+    },
+    {
+     "text": "Monday's",
+     "start": 9.1,
+     "end": 9.549999999999999
+    },
+    {
+     "text": "trial,",
+     "start": 9.549999999999999,
+     "end": 10.149999999999999
+    },
+    {
+     "text": "and",
+     "start": 10.225,
+     "end": 10.35
+    },
+    {
+     "text": "adds",
+     "start": 10.35,
+     "end": 10.587499999999999
+    },
+    {
+     "text": "a",
+     "start": 10.587499999999999,
+     "end": 10.6625
+    },
+    {
+     "text": "two-hour",
+     "start": 10.6625,
+     "end": 11.1625
+    },
+    {
+     "text": "daily",
+     "start": 11.1625,
+     "end": 11.524999999999999
+    },
+    {
+     "text": "limit",
+     "start": 11.524999999999999,
+     "end": 11.774999999999999
+    },
+    {
+     "text": "for",
+     "start": 11.774999999999999,
+     "end": 11.899999999999999
+    },
+    {
+     "text": "teens.",
+     "start": 11.899999999999999,
+     "end": 12.549999999999999
+    }
+   ],
+   "rank": 5,
+   "headline": "TikTok Settles Alabama Lawsuit",
+   "category": "Social",
+   "keyFact": "$100M settlement",
+   "source": "TechCrunch",
+   "image": null
+  },
+  {
+   "start": 13.125,
+   "end": 22.2,
+   "voiceEnd": 21.85,
+   "words": [
+    {
+     "text": "Bitget",
+     "start": 13.35,
+     "end": 13.6875
+    },
+    {
+     "text": "CEO",
+     "start": 13.6875,
+     "end": 14.15
+    },
+    {
+     "text": "Gracy",
+     "start": 14.15,
+     "end": 14.8375
+    },
+    {
+     "text": "Chen",
+     "start": 14.8375,
+     "end": 15.3625
+    },
+    {
+     "text": "says",
+     "start": 15.3625,
+     "end": 15.6
+    },
+    {
+     "text": "suspected",
+     "start": 15.6,
+     "end": 16.175
+    },
+    {
+     "text": "North",
+     "start": 16.175,
+     "end": 16.45
+    },
+    {
+     "text": "Korean",
+     "start": 16.45,
+     "end": 16.775
+    },
+    {
+     "text": "hackers",
+     "start": 16.775,
+     "end": 17.15
+    },
+    {
+     "text": "drained",
+     "start": 17.15,
+     "end": 17.775
+    },
+    {
+     "text": "three",
+     "start": 17.775,
+     "end": 18.025
+    },
+    {
+     "text": "hundred",
+     "start": 18.025,
+     "end": 18.35
+    },
+    {
+     "text": "eighty",
+     "start": 18.35,
+     "end": 18.6875
+    },
+    {
+     "text": "seven",
+     "start": 18.6875,
+     "end": 19.05
+    },
+    {
+     "text": "million",
+     "start": 19.05,
+     "end": 19.375
+    },
+    {
+     "text": "dollars",
+     "start": 19.375,
+     "end": 20.0625
+    },
+    {
+     "text": "from",
+     "start": 20.0625,
+     "end": 20.2125
+    },
+    {
+     "text": "a",
+     "start": 20.2125,
+     "end": 20.275
+    },
+    {
+     "text": "backend",
+     "start": 20.275,
+     "end": 20.7
+    },
+    {
+     "text": "wallet",
+     "start": 20.7,
+     "end": 21.0
+    },
+    {
+     "text": "system.",
+     "start": 21.0,
+     "end": 21.625
+    }
+   ],
+   "rank": 4,
+   "headline": "North Korea Blamed For Crypto Heist",
+   "category": "Crypto",
+   "keyFact": "$387M drained",
+   "source": "Techmeme",
+   "image": null
+  },
+  {
+   "start": 22.2,
+   "end": 30.5,
+   "voiceEnd": 30.15,
+   "words": [
+    {
+     "text": "Researchers",
+     "start": 22.425,
+     "end": 23.025
+    },
+    {
+     "text": "found",
+     "start": 23.025,
+     "end": 23.3125
+    },
+    {
+     "text": "two",
+     "start": 23.3125,
+     "end": 23.625
+    },
+    {
+     "text": "unpatched",
+     "start": 23.625,
+     "end": 24.2375
+    },
+    {
+     "text": "Citrix",
+     "start": 24.2375,
+     "end": 24.65
+    },
+    {
+     "text": "NetScaler",
+     "start": 24.65,
+     "end": 25.2
+    },
+    {
+     "text": "flaws",
+     "start": 25.2,
+     "end": 25.625
+    },
+    {
+     "text": "under",
+     "start": 25.625,
+     "end": 25.8625
+    },
+    {
+     "text": "active",
+     "start": 25.8625,
+     "end": 26.1875
+    },
+    {
+     "text": "exploitation,",
+     "start": 26.1875,
+     "end": 27.2
+    },
+    {
+     "text": "prompting",
+     "start": 27.299999999999997,
+     "end": 27.737499999999997
+    },
+    {
+     "text": "admins",
+     "start": 27.737499999999997,
+     "end": 28.25
+    },
+    {
+     "text": "to",
+     "start": 28.25,
+     "end": 28.35
+    },
+    {
+     "text": "pull",
+     "start": 28.35,
+     "end": 28.6
+    },
+    {
+     "text": "appliances",
+     "start": 28.6,
+     "end": 29.15
+    },
+    {
+     "text": "offline.",
+     "start": 29.15,
+     "end": 29.924999999999997
+    }
+   ],
+   "rank": 3,
+   "headline": "NetScaler Zero-Days Exploited Live",
+   "category": "Security",
+   "keyFact": "2 zero-days",
+   "source": "The Hacker News",
+   "image": null
+  },
+  {
+   "start": 30.5,
+   "end": 38.475,
+   "voiceEnd": 38.125,
+   "words": [
+    {
+     "text": "A",
+     "start": 30.7,
+     "end": 30.7875
+    },
+    {
+     "text": "federal",
+     "start": 30.7875,
+     "end": 31.1625
+    },
+    {
+     "text": "jury",
+     "start": 31.1625,
+     "end": 31.6125
+    },
+    {
+     "text": "ordered",
+     "start": 31.6125,
+     "end": 32.0125
+    },
+    {
+     "text": "Apple",
+     "start": 32.0125,
+     "end": 32.35
+    },
+    {
+     "text": "to",
+     "start": 32.35,
+     "end": 32.475
+    },
+    {
+     "text": "pay",
+     "start": 32.475,
+     "end": 32.7
+    },
+    {
+     "text": "Taction",
+     "start": 32.7,
+     "end": 33.075
+    },
+    {
+     "text": "Technology",
+     "start": 33.075,
+     "end": 33.9125
+    },
+    {
+     "text": "over",
+     "start": 33.9125,
+     "end": 34.1875
+    },
+    {
+     "text": "five",
+     "start": 34.1875,
+     "end": 34.525
+    },
+    {
+     "text": "point",
+     "start": 34.525,
+     "end": 34.8
+    },
+    {
+     "text": "seven",
+     "start": 34.8,
+     "end": 35.15
+    },
+    {
+     "text": "billion",
+     "start": 35.15,
+     "end": 35.5
+    },
+    {
+     "text": "dollars",
+     "start": 35.5,
+     "end": 36.1875
+    },
+    {
+     "text": "for",
+     "start": 36.1875,
+     "end": 36.3125
+    },
+    {
+     "text": "infringing",
+     "start": 36.3125,
+     "end": 36.825
+    },
+    {
+     "text": "haptics",
+     "start": 36.825,
+     "end": 37.25
+    },
+    {
+     "text": "patents.",
+     "start": 37.25,
+     "end": 37.9
+    }
+   ],
+   "rank": 2,
+   "headline": "Apple Loses $5.7B Verdict",
+   "category": "Apple",
+   "keyFact": "$5.7B+ verdict",
+   "source": "Techmeme",
+   "image": null
+  },
+  {
+   "start": 38.475,
+   "end": 47.725,
+   "voiceEnd": 47.375,
+   "words": [
+    {
+     "text": "OpenAI",
+     "start": 38.7,
+     "end": 39.3125
+    },
+    {
+     "text": "froze",
+     "start": 39.3125,
+     "end": 39.7
+    },
+    {
+     "text": "training",
+     "start": 39.7,
+     "end": 40.0625
+    },
+    {
+     "text": "on",
+     "start": 40.0625,
+     "end": 40.1625
+    },
+    {
+     "text": "its",
+     "start": 40.1625,
+     "end": 40.275
+    },
+    {
+     "text": "most",
+     "start": 40.275,
+     "end": 40.5625
+    },
+    {
+     "text": "powerful",
+     "start": 40.5625,
+     "end": 41.0
+    },
+    {
+     "text": "models",
+     "start": 41.0,
+     "end": 41.7125
+    },
+    {
+     "text": "after",
+     "start": 41.7125,
+     "end": 41.987500000000004
+    },
+    {
+     "text": "a",
+     "start": 41.987500000000004,
+     "end": 42.0875
+    },
+    {
+     "text": "sandboxed",
+     "start": 42.0875,
+     "end": 42.7
+    },
+    {
+     "text": "test",
+     "start": 42.7,
+     "end": 43.050000000000004
+    },
+    {
+     "text": "escaped",
+     "start": 43.050000000000004,
+     "end": 43.45
+    },
+    {
+     "text": "online,",
+     "start": 43.45,
+     "end": 44.225
+    },
+    {
+     "text": "and",
+     "start": 44.325,
+     "end": 44.4375
+    },
+    {
+     "text": "its",
+     "start": 44.4375,
+     "end": 44.575
+    },
+    {
+     "text": "agents",
+     "start": 44.575,
+     "end": 45.0
+    },
+    {
+     "text": "leaked",
+     "start": 45.0,
+     "end": 45.2875
+    },
+    {
+     "text": "ChatGPT",
+     "start": 45.2875,
+     "end": 46.1
+    },
+    {
+     "text": "users'",
+     "start": 46.1,
+     "end": 46.45
+    },
+    {
+     "text": "images.",
+     "start": 46.45,
+     "end": 47.150000000000006
+    }
+   ],
+   "rank": 1,
+   "headline": "OpenAI Pauses AI Training",
+   "category": "AI",
+   "keyFact": "training paused",
+   "source": "The Verge",
+   "image": null
+  }
+ ],
+ "outro": {
+  "start": 47.725,
+  "end": 54.525,
+  "voiceEnd": 52.925000000000004,
+  "words": [
+   {
+    "text": "Follow",
+    "start": 47.95,
+    "end": 48.2
+   },
+   {
+    "text": "ByteFive",
+    "start": 48.2,
+    "end": 48.675000000000004
+   },
+   {
+    "text": "for",
+    "start": 48.675000000000004,
+    "end": 48.800000000000004
+   },
+   {
+    "text": "daily",
+    "start": 48.800000000000004,
+    "end": 49.075
+   },
+   {
+    "text": "tech",
+    "start": 49.075,
+    "end": 49.325
+   },
+   {
+    "text": "news,",
+    "start": 49.325,
+    "end": 49.575
+   },
+   {
+    "text": "tell",
+    "start": 49.625,
+    "end": 49.8375
+   },
+   {
+    "text": "us:",
+    "start": 49.8375,
+    "end": 50.275
+   },
+   {
+    "text": "should",
+    "start": 50.375,
+    "end": 50.525
+   },
+   {
+    "text": "AI",
+    "start": 50.525,
+    "end": 50.85
+   },
+   {
+    "text": "labs",
+    "start": 50.85,
+    "end": 51.15
+   },
+   {
+    "text": "slow",
+    "start": 51.15,
+    "end": 51.425000000000004
+   },
+   {
+    "text": "down",
+    "start": 51.425000000000004,
+    "end": 51.725
+   },
+   {
+    "text": "or",
+    "start": 51.725,
+    "end": 51.825
+   },
+   {
+    "text": "push",
+    "start": 51.825,
+    "end": 52.075
+   },
+   {
+    "text": "forward?",
+    "start": 52.075,
+    "end": 52.675000000000004
+   }
+  ]
+ },
+ "coverHeadline": "OPENAI HALTS AI TRAINING",
+ "music": null,
+ "musicVolume": 0.1,
+ "labels": {
+  "topic": "Tech",
+  "introSubtitle": "Tech Stories",
+  "outroLine": "New episodes every morning & evening"
+ }
+}

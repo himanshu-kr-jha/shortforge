@@ -1,0 +1,67 @@
+{
+  "llm": {
+    "defaultProvider": "groq",
+    "providers": {
+      "groq": {
+        "baseUrl": "https://api.groq.com/openai/v1",
+        "model": "openai/gpt-oss-120b",
+        "jsonSchema": true,
+        "extraBody": {
+          "reasoning_effort": "medium"
+        },
+        "keyUrl": "https://console.groq.com/keys",
+        "deepBody": {
+          "reasoning_effort": "high"
+        }
+      },
+      "nvidia": {
+        "baseUrl": "https://integrate.api.nvidia.com/v1",
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "jsonSchema": false,
+        "keyUrl": "https://build.nvidia.com (Get API Key)",
+        "extraBody": {
+          "max_tokens": 8192,
+          "chat_template_kwargs": {
+            "enable_thinking": false
+          }
+        },
+        "deepBody": {
+          "max_tokens": 16384,
+          "chat_template_kwargs": {
+            "enable_thinking": true
+          }
+        }
+      },
+      "cerebras": {
+        "baseUrl": "https://api.cerebras.ai/v1",
+        "model": "gpt-oss-120b",
+        "jsonSchema": false,
+        "keyUrl": "https://cloud.cerebras.ai"
+      },
+      "openrouter": {
+        "baseUrl": "https://openrouter.ai/api/v1",
+        "model": "openai/gpt-oss-120b:free",
+        "jsonSchema": false,
+        "keyUrl": "https://openrouter.ai/keys"
+      },
+      "gemini": {
+        "baseUrl": "https://generativelanguage.googleapis.com/v1beta/openai",
+        "model": "gemini-2.5-flash",
+        "jsonSchema": false,
+        "keyUrl": "https://aistudio.google.com/apikey"
+      },
+      "ollama": {
+        "baseUrl": "http://localhost:11434/v1",
+        "model": "qwen3:8b",
+        "jsonSchema": false,
+        "needsKey": false
+      }
+    }
+  },
+  "video": {
+    "fps": 30,
+    "targetSeconds": 55,
+    "maxSeconds": 62,
+    "musicVolume": 0.1
+  }
+}
